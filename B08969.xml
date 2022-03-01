@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The dying lamentation of Thomas Randal, who was executed at Stone-Bridge, on VVednesday the 29th of January for the barbarous murder committed on Roger Leavens, ironmonger who is hang'd in chains near Stone-Bridge.  To the tune of, Johnsons farewell.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08969</idno>
+            <idno type="STC">Wing D2950D</idno>
+            <idno type="STC">ESTC R174793</idno>
+            <idno type="EEBO-CITATION">64551193</idno>
+            <idno type="OCLC">ocm 64551193</idno>
+            <idno type="VID">184536</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08969)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184536)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2866:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The dying lamentation of Thomas Randal, who was executed at Stone-Bridge, on VVednesday the 29th of January for the barbarous murder committed on Roger Leavens, ironmonger who is hang'd in chains near Stone-Bridge.  To the tune of, Johnsons farewell.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Moore,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Randal, Thomas, d. 1696 --  Death and burial.</term>
+               <term>Leavens, Roger --  Death and burial.</term>
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:184536:1"/>
+            <head>The Dying Lamentation Of <hi>Thomas Randal,</hi> who was Executed at Stone-Bridge, on <hi>VVedneſday</hi> the <hi>29th</hi> of <hi>January</hi> for the barbarous Murder Committed on <hi>Roger Leavens,</hi> Ironmonger. Who is Hang'd in Chains near <hi>Stone-Bridge.</hi>
+            </head>
+            <p>
+               <figure>
+                  <head>Conſes your Sins and Repent.</head>
+                  <figDesc>fragmentary woodcut</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>fragmentary woodcut, figures being hanged</figDesc>
+               </figure>
+               <figure/>
+               <figure>
+                  <figDesc>fragmentary woodcut</figDesc>
+               </figure>
+               <figure>
+                  <head>My Childen delight in Blood.</head>
+                  <figDesc>fragmentary woodcut, Devil</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <opener>To the Tune of <hi>Johnſons Farewell.</hi>
+               </opener>
+               <lg>
+                  <l>OH horred, borred is my Crime,</l>
+                  <l>For which I now muſt dye</l>
+                  <l>And to relate the bloody time,</l>
+                  <l>Of this barbarity,</l>
+                  <l>Would make a Heart of Stone to bleed,</l>
+                  <l>To think upon the Fact,</l>
+                  <l>I am aſham'd to name indeed</l>
+                  <l>This bloody, bloody Act.</l>
+               </lg>
+               <lg>
+                  <l>'Twas at <hi>Stone-Bridge</hi> not far from Town</l>
+                  <l>Where I did lye in wait,</l>
+                  <l>To rob the very firſt that come,</l>
+                  <l>But oh unhappy fate,</l>
+                  <l>Inſtead of Robbing him of Pelf,</l>
+                  <l>With Piſtol ſhot him dead,</l>
+                  <l>And likewiſe bound his Wife my ſelf,</l>
+                  <l>Then ſtraight from Juſtice fled.</l>
+               </lg>
+               <lg>
+                  <l>This wicked deed which I have done</l>
+                  <l>I do repent too late;</l>
+                  <l>My Glaſs of Life is almoſt run,</l>
+                  <l>Oh moſt unhappy Fate:</l>
+                  <l>I muſt be now this very day</l>
+                  <l>A ſad Example made,</l>
+                  <l>I having wrought my Life's decay,</l>
+                  <l>Farewell this bloody Trade.</l>
+               </lg>
+               <lg>
+                  <l>Oh <hi>Leavens, Leavens</hi> whom I ſhot,</l>
+                  <l>And never bid you ſtand,</l>
+                  <l>I muſt confeſs hard was your Lott,</l>
+                  <l>Through my moſt bloody hand,</l>
+                  <l>I kill'd you dead without one word,</l>
+                  <l>So wicked was my mind,</l>
+                  <l>And God requires blood for blood,</l>
+                  <l>The Law's the ſame I find:</l>
+               </lg>
+               <lg>
+                  <l>How bitter is the thoughts of Death,</l>
+                  <l>Which ſtares with bloody Dart</l>
+                  <l>And gapeth for my lateſt breath,</l>
+                  <l>When Soul and Body part,</l>
+                  <l>But oh a greater grief then this</l>
+                  <l>Is Conſcience does me tell,</l>
+                  <l>That blood hinders my Soul of bliſs,</l>
+                  <l>No hopes for me but Hell.</l>
+               </lg>
+               <lg>
+                  <l>Oh VVomen, VVomen baſe and rude</l>
+                  <l>'Twas your bad Company,</l>
+                  <l>I follow'd none but what were lew'd</l>
+                  <l>And to them did comply,</l>
+                  <l>For when they did at any time</l>
+                  <l>VVant Money for to rant,</l>
+                  <l>I ſtuck not then at any crime,</l>
+                  <l>For to ſupply their want.</l>
+               </lg>
+               <lg>
+                  <l>Pray you that ſee my fatal race,</l>
+                  <l>Let all your VVays be good,</l>
+                  <l>Nere be concern'd with VVomen baſe</l>
+                  <l>Nor yet delight in blood,</l>
+                  <l>For here a ſhameful Death you ſee</l>
+                  <l>I juſtly undergo,</l>
+                  <l>Then pray young Men be warn'd by me</l>
+                  <l>Be no Mans overthrow.</l>
+               </lg>
+               <lg>
+                  <l>The latter Minute is at hand,</l>
+                  <l>Farewell the VVorld, and all</l>
+                  <l>Of you that now ſpectators ſtand,</l>
+                  <l>VVith Prayers <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, and call</l>
+                  <l>On Jeſus Chriſt the Lamb of God,</l>
+                  <l>To interceed for me,</l>
+                  <l>That I may be cleans'd from this blood</l>
+                  <l>I ſhed ſo cruelly.</l>
+               </lg>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed and Sold by <hi>T. Moore,</hi> 1696.</p>
+            <pb facs="tcp:184536:2" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
